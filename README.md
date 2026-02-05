@@ -28,36 +28,6 @@ The project demonstrates:
 
 ---
 
-## 📂 Project Structure
-
-```
-src/main/java/com/example/eventmanagement
-│
-├── controller
-│   └── EventController.java
-│
-├── service
-│   ├── EventService.java
-│   └── EventServiceImpl.java
-│
-├── repository
-│   └── EventRepository.java
-│
-├── model
-│   └── Event.java
-│
-├── dto
-│   ├── EventRequestDTO.java
-│   └── EventResponseDTO.java
-│
-├── exception
-│   └── EventNotFoundException.java
-│
-└── EventManagementApplication.java
-```
-
----
-
 ## ⚙️ Database Configuration (MySQL)
 
 Update **application.yml**:
